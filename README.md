@@ -13,3 +13,6 @@ For now, the test suite only works in Chrome! Please read the README below in th
 -->
 <!doctype html>
 <html lang="en">
+ <head>
+    <title>Drum Machine</title>
+  </head>
