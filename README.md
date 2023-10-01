@@ -16,3 +16,9 @@ For now, the test suite only works in Chrome! Please read the README below in th
  <head>
     <title>Drum Machine</title>
   </head>
+<body>
+    <div class="container" id="drum-machine">
+      <h1 class="text-center">Drum Machine</h1>
+      <div id="display"></div>
+      <button class="drum-pad btn btn-block btn-primary" id="drum-0">
+        Q
