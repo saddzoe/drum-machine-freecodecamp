@@ -22,3 +22,9 @@ For now, the test suite only works in Chrome! Please read the README below in th
       <div id="display"></div>
       <button class="drum-pad btn btn-block btn-primary" id="drum-0">
         Q
+         <audio src="./clip/" class="clip" id="Q">
+      </button>
+      <button class="drum-pad btn btn-block btn-primary" id="drum-1">
+        W
+        <audio src="./clip/" class="clip" id="W">
+      </button>
