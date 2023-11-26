@@ -36,3 +36,7 @@ For now, the test suite only works in Chrome! Please read the README below in th
         A
         <audio src="./clip/" class="clip" id="A">
       </button>
+      <button class="drum-pad btn btn-block btn-primary" id="drum-4">
+        S
+        <audio src="./clip/" class="clip" id="S">
+      </button>
