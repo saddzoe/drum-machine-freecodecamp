@@ -58,19 +58,23 @@ For now, the test suite only works in Chrome! Please read the README below in th
       </button>
         <button class="drum-pad btn btn-block btn-primary" id="drum-8">
         L
-        <audio src="./clip/" class="clip" id="C">
+        <audio src="./clip/" class="clip" id="L">
       </button>
         <button class="drum-pad btn btn-block btn-primary" id="drum-8">
         O
-        <audio src="./clip/" class="clip" id="C">
+        <audio src="./clip/" class="clip" id="O">
       </button>
        <button class="drum-pad btn btn-block btn-primary" id="drum-8">
         S
-        <audio src="./clip/" class="clip" id="C">
+        <audio src="./clip/" class="clip" id="S">
       </button>
        <button class="drum-pad btn btn-block btn-primary" id="drum-8">
         K
-        <audio src="./clip/" class="clip" id="C">
+        <audio src="./clip/" class="clip" id="K">
+      </button>
+        <button class="drum-pad btn btn-block btn-primary" id="drum-8">
+        L
+        <audio src="./clip/" class="clip" id="L">
       </button>
         
         
