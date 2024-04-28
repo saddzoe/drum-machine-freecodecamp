@@ -104,4 +104,8 @@ For now, the test suite only works in Chrome! Please read the README below in th
         A
         <audio src="./clip/" class="clip" id="P">
       </button>
+        <button class="drum-pad btn btn-block btn-primary" id="drum-8">
+        J
+        <audio src="./clip/" class="clip" id="P">
+      </button>
 
